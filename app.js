@@ -4,25 +4,25 @@
 
 const newsData = [
     {
-        title: "Nueva Era de Interfaces Neuronales",
-        summary: "Se presentan los primeros prototipos de dispositivos que permiten la interacción con sistemas digitales mediante impulsos de pensamiento sutil.\n\nEsta tecnología promete revolucionar la forma en que interactuamos con la tecnología, ofreciendo una experiencia más intuitiva y fluida.",
-        category: "Innovación",
-        date: "Hoy",
-        url: "https://noticias.tech/neuronales"
+        title: "Corredor Interoceánico en Chiapas: avance entre negativas ambientales, dudas empresariales y cuestionamientos sobre seguridad",
+        summary: "En Chiapas, se construye el ramal KA, una línea férrea secundaria que se desprende de la Línea K, y conectará la red con Puerto Chiapas para el traslado de carga. Asimismo, el gobierno federal sostiene que la Línea K registra un avance de 88 % y que estará lista a mediados de 2026. Sin embargo, la Cámara Nacional de la Industria de Transformación (Canacintra) ha pedido que expertos independientes validen la seguridad de la infraestructura antes de su entrega.",
+        category: "Trenes",
+        date: "03 de marzo, 2026",
+        url: "https://animalpolitico.com/estados/corredor-interoceanico-chiapas-negativas-ambientales-seguridad"
     },
     {
-        title: "Descubrimiento en Energía de Fusión",
-        summary: "Científicos logran mantener un plasma estable por más de una hora en el reactor experimental, marcando un hito hacia la energía limpia.",
-        category: "Ciencia",
-        date: "Ayer",
-        url: "https://ciencia.org/fusion"
+        title: "Vecinos frenan estudios del Tren México Querétaro en San Mateo Ixtacalco; acusan falta de información sobre obras de mitigación",
+        summary: "Pobladores de San Mateo Ixtacalco impidieron anoche a trabajadores realizar estudios de mecánica de suelos; señalan que solo les han informado de palabra que habrán puentes y temen que afecte la identidad de la comunidad.",
+        category: "Trenes",
+        date: "03 de marzo, 2026",
+        url: "https://www.eluniversal.com.mx/metropoli/vecinos-frenan-estudios-del-tren-mexico-queretaro-en-san-mateo-ixtacalco-acusan-falta-de-informacion-sobre-obras-de-mitigacion/"
     },
     {
-        title: "Ciudades Inteligentes en Marte",
-        summary: "El despliegue de infraestructura modular automatizada ha finalizado con éxito en la región de Elysium Planitia.",
-        category: "Espacio",
-        date: "01 Mar",
-        url: "https://espacio.news/marte"
+        title: "Tren del Norte proyecta 70 mil pasajeros diarios en sus dos corredores",
+        summary: "La Secretaría de Infraestructura Comunicaciones y Transportes (SICT) estimó que el proyecto del Tren del Norte atenderá una demanda de aproximadamente 70 mil pasajeros diarios en sus rutas Ciudad de México-Querétaro-Irapuato y Saltillo -Nuevo León. La SICT informó que las unidades serán fabricadas por Alstom Méixoc.",
+        category: "Trenes",
+        date: "03 de marzo, 2026",
+        url: "https://www.tyt.com.mx/nota/tren-del-norte-proyecta-70-mil-pasajeros-diarios-en-sus-dos-corredores"
     }
 ];
 
