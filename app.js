@@ -39,8 +39,8 @@ function createNewsCard(item) {
                     ${item.category}
                 </span>
             </div>
-            <h3 class="text-2xl font-bold text-white mb-4 leading-tight">${item.title}</h3>
-            ${item.summary.split('\n\n').map(p => `<p class="text-slate-400 leading-relaxed text-sm custom-scrollbar">${p}</p>`).join('')}
+            <h3 class="text-2xl font-bold text-white mb-4 leading-tight text-justify">${item.title}</h3>
+            ${item.summary.split('\n\n').map(p => `<p class="text-slate-400 leading-relaxed text-sm custom-scrollbar text-justify">${p}</p>`).join('')}
         </div>
         <div class="mt-8 pt-6 border-t border-white/5 flex items-center justify-between">
             <div class="flex items-center gap-2">
