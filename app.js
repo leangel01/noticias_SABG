@@ -45,7 +45,7 @@ function createNewsCard(item) {
         <div class="mt-8 pt-6 border-t border-white/5 flex items-center justify-between">
             <div class="flex items-center gap-2">
                 <div class="w-1.5 h-1.5 rounded-full bg-cyan-400 animate-pulse shadow-[0_0_8px_rgba(34,211,238,0.8)]"></div>
-                <span class="text-[9px] font-black text-blue-300/50 uppercase tracking-[0.3em]">Leer Resumen</span>
+                <span class="text-[9px] font-black text-blue-300/50 uppercase tracking-[0.3em]">Leer nota completa</span>
             </div>
             <span class="text-xs font-semibold text-slate-500">${item.date}</span>
         </div>
